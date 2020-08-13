@@ -1,2 +1,2 @@
 # ejercicioGit
-Proyecto para la práctica de Git 7
+Proyecto para la práctica de Git 8
